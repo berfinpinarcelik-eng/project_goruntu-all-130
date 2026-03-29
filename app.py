@@ -626,7 +626,7 @@ with col_sag:
 # ========================= ALT BİLGİ (FOOTER) ===============================
 st.markdown("""
 <div class='footer'>
-    <p>Nejdet TUT — AI Görsel Tanıma Projesi — 2026</p>
+    <p>berfin pınar çelik — AI Görsel Tanıma Projesi — 2026</p>
     <p style='font-size: 0.75rem; margin-top: 4px;'>Powered by Groq Cloud & LLaMA Vision</p>
 </div>
 """, unsafe_allow_html=True)
