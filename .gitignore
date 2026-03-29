@@ -1,0 +1,37 @@
+# =============================================================================
+# Git Tarafından Takip Edilmeyecek Dosyalar
+# =============================================================================
+
+# Ortam değişkenleri (API anahtarları burada - GÜVENLİK!)
+.env
+api_key.txt
+
+# Python derleme dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+
+# IDE ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# İşletim sistemi dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Eski model dosyaları (artık gerekli değil)
+*.h5
+*.tflite
+*.pb
+
+# Streamlit önbelleği
+.streamlit/secrets.toml

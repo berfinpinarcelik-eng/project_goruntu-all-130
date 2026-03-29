@@ -1,0 +1,8 @@
+# =============================================================================
+# AI Görsel Tanıma - Gerekli Kütüphaneler
+# =============================================================================
+
+streamlit>=1.30.0        # Web arayüzü çatısı (framework)
+groq>=0.4.0              # Groq Cloud API istemcisi
+python-dotenv>=1.0.0     # .env dosyasından ortam değişkenlerini okuma
+Pillow>=10.0.0           # Görsel işleme kütüphanesi (PIL)
